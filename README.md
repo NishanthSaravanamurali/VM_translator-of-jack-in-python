@@ -1,6 +1,6 @@
 # VM_translator-of-jack-in-python
 
-Required modules:
+Required Python modules:
 1) Tkinter
 2) Sys
 3) Os
